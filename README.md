@@ -8,4 +8,4 @@
   
   Minhas redes sociais
    
-    Twitter: [https://abre.ai/eXt4]
+    Twitter: [ https://abre.ai/eXt4 ]
