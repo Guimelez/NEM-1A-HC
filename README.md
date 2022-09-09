@@ -4,8 +4,3 @@
 #### Minha turma é a 1° série a do Novo Ensino Médio (NEM)
 ##### Disciplina de _Pensamento Computacional_
 
-   _Biografia_
-  
-  Minhas redes sociais
-   
-    Twitter:
