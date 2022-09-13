@@ -1,14 +1,16 @@
 # NEM-1A-HC
 ## Meu nome é Guilherme Luís Gerelli
-### Sou entudante do <h1>Colégio Humberto de Campos</h1>
+### Sou entudante do **<h1>**Colégio Humberto de Campos****</h1>****
 #### Minha turma é a 1° série a do Novo Ensino Médio (NEM)
 ##### Disciplina de _Pensamento Computacional_
 
 
 
- <h1>SORVETERIA GUIMÉLEZ</h1>
+ **<**h1>SORVETERIA GUIMÉLEZ****<**/h1>**
 
-        Desde de 2012 trazendo os melhores sorvetes para você.
+        Desde de ```python
+**<strong>**
+```2012****<strong>**** trazendo os melhores sorvetes para você.
 
 Fomos premiados como a melhor sorveteria de Santo Antônio do Sudoeste.
 
