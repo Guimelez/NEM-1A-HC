@@ -1,11 +1,11 @@
+body{
+    background: cyan
+}
+
 p{
     text-align: center;
 }
 
 strong{
     color:cyan
-}
-
-body{
-    background: cyan
 }
