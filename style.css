@@ -1,5 +1,5 @@
 body{
-    background: red
+    background: cyan
 }
 
 p{
@@ -7,5 +7,5 @@ p{
 }
 
 strong{
-    color:red
+    color:cyan
 }
